@@ -1,4 +1,4 @@
-package casse_brique_mr_negger;
+package casse_brique;
 
 import java.awt.BasicStroke;
 import java.awt.Color;

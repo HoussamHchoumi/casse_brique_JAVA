@@ -1,4 +1,4 @@
-package casse_brique_mr_negger;
+package casse_brique;
 
 import javax.swing.JFrame;
 
